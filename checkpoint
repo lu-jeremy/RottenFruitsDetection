@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 model_checkpoint_path: "train_rotten_model"
 all_model_checkpoint_paths: "train_rotten_model"
+=======
+model_checkpoint_path: "train_rotten_model.ckpt"
+all_model_checkpoint_paths: "train_rotten_model.ckpt"
+>>>>>>> 4e22822301509d4267a16e7ea3b472f9d8a325b9
