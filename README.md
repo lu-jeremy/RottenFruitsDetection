@@ -1,3 +1,5 @@
 # RottenFruitsDetection
 
-Detects rotten fruits for farmers globally. 
+## Learning project with basic ML algorithms and related libraries
+
+- Detects rotten fruits for farmers globally. 
